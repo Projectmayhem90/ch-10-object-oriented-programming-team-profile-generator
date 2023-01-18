@@ -23,6 +23,10 @@ Type "node ." within terminal
 Answer questions the program asks. Some titles like Engineer and Manager will ask for github or office number and inter will ask for school.
 The application will automatically generate your index.html within the "sample" folder
 
+# Demo
+
+![demo of how app works](./images/Demo%20Team%20Gen%201.mp4)
+
 # Testing
 Run "npm test" within the root directory of the application. The tests will automatically run and display the results.
 
